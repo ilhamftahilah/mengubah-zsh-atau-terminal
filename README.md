@@ -176,14 +176,4 @@ Contribute
 
 ### Thanks
 
-* [shouze](https://github.com/shouze)
-* [stephpy](https://github.com/stephpy)
-* [Ph3nol](https://github.com/Ph3nol)
-* [gbin](https://github.com/gbin)
-* [krischer](https://github.com/krischer)
-* [Arthraim](https://github.com/Arthraim)
-* [itszero](https://github.com/itszero)
-* [adrienbrault](https://github.com/adrienbrault)
-* [mkraemer](https://github.com/mkraemer)
-* [wujtruj](https://github.com/wujtruj)
-* [Flavius Aspra](http://flavius.github.com/)
+* [JeremyFreeAgent] (https://github.com/jeremyFreeAgent)
