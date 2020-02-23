@@ -6,7 +6,7 @@ oh-my-zsh Powerline style Theme
 Preview
 -------
 
-![Preview](https://raw.githubusercontent.com/jeremyFreeAgent/oh-my-zsh-powerline-theme/master/preview.png)
+![Preview](https://github.com/ilhamftahilah/mengubah-zsh-atau-terminal/blob/master/contoh.png)
 
 Set Up
 ------
